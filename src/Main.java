@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 
-public class LootCrateSystem {
+public class Main {
     static Player[] players = new Player[2];
 
     public static void main(String[] args) {

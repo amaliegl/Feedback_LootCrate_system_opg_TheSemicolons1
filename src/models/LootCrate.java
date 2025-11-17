@@ -1,7 +1,7 @@
 package models;
 
 import exceptions.NotEnoughCreditsException;
-
+//dfghjk
 public class LootCrate {
     private final String identification;
     private final int credits;
